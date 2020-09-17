@@ -10,4 +10,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Potential Subject: Environmental Policy
-### I am considering doing a final project that analyzes the success rate of different types of environmental policy. Potentially, I would address correlations between such things as carbon taxes or cap-and-trade systems and CO2 emissions to see if they have a noticeable effect. I also have found some data that is interesting to me that is a flow diagram of energy use and may show some pathways towards reducing our reliance on fossil fuels. 
+### I am considering doing a final project that analyzes the success rate of different types of environmental policy. Potentially, I would address correlations between such things as carbon taxes or cap-and-trade systems and CO2 emissions to see if they have a noticeable effect. I also have found some data that is interesting to me; a flow diagram of energy use pathways that could help in reducing our reliance on fossil fuels from Energy Literacy. Maybe a similar visualization of the sources or end use of our energy consumption would be something I would like to pursue.
