@@ -40,3 +40,7 @@ differences. I also think they could have changed the aesthetics of the plots,
 but the data is very clear and engaging. A potential issue is that the selection
 of words does not fully represent all the times that a candidate references the
 selected issues. Overall, I was very impressed by this project.
+
+
+
+#github repo: https://github.com/DPinckney/environmental_policy1
